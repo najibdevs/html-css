@@ -37,7 +37,7 @@ This section covers additional aspects of web development beyond HTML and CSS, o
 4. Learn about their features, usage, and best practices.
 
 ## Live Demo
-[View the live project here]()
+[View the live project here](https://html-css-ashy-ten.vercel.app/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
